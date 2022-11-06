@@ -1,3 +1,7 @@
+# This file is part of FreeCAD project which is released under GPL2 license
+# Go to https://github.com/FreeCAD/FreeCAD/blob/master/LICENSE for full license details.
+
+
 # Try to find OCE / OCC
 # Once done this will define
 #
